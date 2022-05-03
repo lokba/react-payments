@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-payments/static/css/main.18c3e8e0.css",
-    "main.js": "/react-payments/static/js/main.906324f5.js",
+    "main.css": "/react-payments/static/css/main.bb90b955.css",
+    "main.js": "/react-payments/static/js/main.e1c2f0d3.js",
     "static/js/787.15f2ece3.chunk.js": "/react-payments/static/js/787.15f2ece3.chunk.js",
     "static/media/tooltip_icon.svg": "/react-payments/static/media/tooltip_icon.7e7d319183b2409a13e4a2f1e5a1171d.svg",
     "index.html": "/react-payments/index.html",
     "static/media/prev_icon.svg": "/react-payments/static/media/prev_icon.750d95a90cd3457c271dc052839b1d51.svg",
-    "main.18c3e8e0.css.map": "/react-payments/static/css/main.18c3e8e0.css.map",
-    "main.906324f5.js.map": "/react-payments/static/js/main.906324f5.js.map",
+    "main.bb90b955.css.map": "/react-payments/static/css/main.bb90b955.css.map",
+    "main.e1c2f0d3.js.map": "/react-payments/static/js/main.e1c2f0d3.js.map",
     "787.15f2ece3.chunk.js.map": "/react-payments/static/js/787.15f2ece3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.18c3e8e0.css",
-    "static/js/main.906324f5.js"
+    "static/css/main.bb90b955.css",
+    "static/js/main.e1c2f0d3.js"
   ]
 }
