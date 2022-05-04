@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://lokba.github.io/react-payments/static/css/main.2ec92787.css",
-    "main.js": "https://lokba.github.io/react-payments/static/js/main.d2684834.js",
-    "static/js/787.15f2ece3.chunk.js": "https://lokba.github.io/react-payments/static/js/787.15f2ece3.chunk.js",
-    "static/media/tooltip_icon.svg": "https://lokba.github.io/react-payments/static/media/tooltip_icon.7e7d319183b2409a13e4a2f1e5a1171d.svg",
-    "index.html": "https://lokba.github.io/react-payments/index.html",
-    "static/media/prev_icon.svg": "https://lokba.github.io/react-payments/static/media/prev_icon.750d95a90cd3457c271dc052839b1d51.svg",
-    "main.2ec92787.css.map": "https://lokba.github.io/react-payments/static/css/main.2ec92787.css.map",
-    "main.d2684834.js.map": "https://lokba.github.io/react-payments/static/js/main.d2684834.js.map",
-    "787.15f2ece3.chunk.js.map": "https://lokba.github.io/react-payments/static/js/787.15f2ece3.chunk.js.map"
+    "main.css": "/react-payments/static/css/main.2ec92787.css",
+    "main.js": "/react-payments/static/js/main.65e78daa.js",
+    "static/js/787.15f2ece3.chunk.js": "/react-payments/static/js/787.15f2ece3.chunk.js",
+    "static/media/tooltip_icon.svg": "/react-payments/static/media/tooltip_icon.7e7d319183b2409a13e4a2f1e5a1171d.svg",
+    "index.html": "/react-payments/index.html",
+    "static/media/prev_icon.svg": "/react-payments/static/media/prev_icon.750d95a90cd3457c271dc052839b1d51.svg",
+    "main.2ec92787.css.map": "/react-payments/static/css/main.2ec92787.css.map",
+    "main.65e78daa.js.map": "/react-payments/static/js/main.65e78daa.js.map",
+    "787.15f2ece3.chunk.js.map": "/react-payments/static/js/787.15f2ece3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ec92787.css",
-    "static/js/main.d2684834.js"
+    "static/js/main.65e78daa.js"
   ]
 }
